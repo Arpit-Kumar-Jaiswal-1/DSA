@@ -39,6 +39,7 @@ int main(){
     printf("Maximum element is: %d\n", max);
 
     free(arr);
+    
 
 
 
